@@ -16,4 +16,10 @@
         "name": "password",
         "message": "What you're password?"
     }
+
+    {
+        "type": "input",
+        "name": "password",
+        "message": "What you're password?"
+    }
 ]
