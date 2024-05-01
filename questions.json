@@ -1,0 +1,19 @@
+[
+    {
+        "type": "input",
+        "name": "name",
+        "message": "What you're name?"
+    },
+
+    {
+        "type": "input",
+        "name": "email",
+        "message": "What you're email?"
+    },
+
+    {
+        "type": "input",
+        "name": "password",
+        "message": "What you're password?"
+    }
+]
